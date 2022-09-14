@@ -13,7 +13,7 @@ export default function App() {
         <Stack.Screen
           name="Home"
           component={HomeScreen}
-          options={{ title: "Demo+" }}
+          options={{ title: "Task Manager" }}
         />
       </Stack.Navigator>
     </NavigationContainer>
